@@ -1,0 +1,14 @@
+org\apache\hadoop\io\nativeio\NativeIO$Windows.class
+com\java\Reducer.class
+org\apache\hadoop\io\nativeio\NativeIO$CachedUid.class
+org\apache\hadoop\io\nativeio\NativeIO$Windows$AccessRight.class
+com\java\JobMain.class
+org\apache\hadoop\io\nativeio\NativeIO$POSIX$CacheManipulator.class
+com\java\MyPartitioner.class
+org\apache\hadoop\io\nativeio\NativeIO$POSIX$IdCache.class
+org\apache\hadoop\io\nativeio\NativeIO.class
+org\apache\hadoop\io\nativeio\NativeIO$POSIX$Stat.class
+com\java\Mapper.class
+org\apache\hadoop\io\nativeio\NativeIO$POSIX$NoMlockCacheManipulator.class
+org\apache\hadoop\io\nativeio\NativeIO$POSIX$CachedName.class
+org\apache\hadoop\io\nativeio\NativeIO$POSIX.class
